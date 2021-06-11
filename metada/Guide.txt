@@ -1,6 +1,0 @@
-Guide for The Metadata Sub-folder
-
-The Metadata sub-folder contains:
-
-A document called your Metadata Guide
-Supplementary documents with additional metadata (if necessary)
